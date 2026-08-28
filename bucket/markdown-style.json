@@ -1,0 +1,13 @@
+{
+  "version": "0.6.2",
+  "description": "Opinionated Markdown linter and formatter",
+  "homepage": "https://github.com/very-good-software-ltd/markdown-style",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/very-good-software-ltd/markdown-style/releases/download/0.6.2/markdown-style-x86_64-pc-windows-msvc.zip",
+      "hash": "b421fe21c22ecf9b666869462a2de6884a9e40942e96006eb1cabfc8fc616519"
+    }
+  },
+  "bin": "markdown-style.exe"
+}
