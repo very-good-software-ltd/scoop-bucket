@@ -1,0 +1,9 @@
+[
+  {
+    "name": "markdown-style",
+    "repo": "very-good-software-ltd/markdown-style",
+    "desc": "Opinionated Markdown linter and formatter",
+    "license": "MIT",
+    "targets": ["x86_64-pc-windows-msvc"]
+  }
+]
