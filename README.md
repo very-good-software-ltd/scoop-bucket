@@ -17,7 +17,7 @@ scoop install very-good-software/markdown-style
 
 | Manifest | Version | Description |
 | --- | --- | --- |
-| [markdown-style](https://github.com/very-good-software-ltd/markdown-style) | 0.6.2 | Opinionated Markdown linter and formatter |
+| [markdown-style](https://github.com/very-good-software-ltd/markdown-style) | 0.6.3 | Opinionated Markdown linter and formatter |
 
 <!-- manifests:end -->
 
